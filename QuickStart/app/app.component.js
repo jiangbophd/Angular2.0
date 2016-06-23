@@ -25,6 +25,7 @@
 //  Copyright © 2016年 JiangBo. All rights reserved.
 //  GitHub地址:https://github.com/jiangbophd/Angular2.0
 
+
 (function(app) {
     app.AppComponent =
         ng.core.Component({
